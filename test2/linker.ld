@@ -1,4 +1,3 @@
-/* linker.ld - 適合 USTART 的簡易鏈結腳本 */
 ENTRY(_start)
 MEMORY
 {
